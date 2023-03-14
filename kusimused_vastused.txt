@@ -1,0 +1,13 @@
+Selgitage loendi ja korteeži erinevust?:Loend on muutuv, korteež mitte
+Kuidas teisendada arv stringiks?:str()
+Kas Pythonil on Switch- või Case-lause?:ei
+Kas Pythoni funktsioon peab tagastama väärtuse?:ei
+Mis on PEP?:Python Enhancement Proposal
+Kas python kasutab juurdepääsuspetsifikaatoreid?:ei
+Kuidas Pythonis kommentaare kirjutada?:#
+Kas Pythonis on treppimine vajalik?:jah
+Mis on Pythonis funktsioon?:def
+Kuidas lõputust ahelast välja murda?:crtl+c
+Kuidas saab Pythonis muutujaid eemaldada?:del
+Kuidas saada praegune Pythoni versioon?:sys.version
+Kuidas stringi loendiks jagada?:split()
